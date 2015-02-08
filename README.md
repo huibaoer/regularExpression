@@ -1,2 +1,2 @@
 # regularExpression
-regular expression study note
+regular expression study notes
